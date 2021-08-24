@@ -7,7 +7,6 @@ function reverseString(str) {
 
   for (let i = 0; i < newstr.length; i++){
   result.unshift(newstr[i]);
-  console.log(result)
   
   }
  
