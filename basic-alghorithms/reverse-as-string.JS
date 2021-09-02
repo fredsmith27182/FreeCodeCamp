@@ -1,3 +1,4 @@
+//this program takes a str from the input and returns the string back in reverse //
 function reverseString(str) {
 
   let result =[];
